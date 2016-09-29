@@ -1,0 +1,10 @@
+{
+    "name": "TwitterStream",
+    "description" : "TwitterStream",
+    "dependencies": {
+        "twitter": "*"
+    },
+    "engines" : {
+        "node" : "*"
+    }
+}
